@@ -1,6 +1,6 @@
 # Data Science Cheatsheets
 
-List of Data Science Cheatsheets to rule the world.
+List of Data Science Cheatsheets to rule the world. 
 
 ## Table of Contents
 
